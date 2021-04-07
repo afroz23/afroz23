@@ -1,0 +1,56 @@
+/*centre alignment of text and images*/
+
+.container{
+    display: inline;
+    justify-content: center;
+}
+.main-parent{    
+    text-align: left;
+    width: 40vw;
+    padding-left: 30vw;
+}    
+ 
+.main-div{
+    width: 40vw;
+    text-align: left;
+    align-items: center;
+}
+
+/* nav links styling */
+
+.link-to{
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    color: rgb(32, 30, 30);
+    cursor: pointer;
+}
+
+.link-to:hover{
+    color: black;
+}
+
+/* Image Styling */
+.avatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile{
+    height: 15%;
+    width: 15%;
+}
+
+.home{
+    font-size: 2rem;
+    display: unset;
+}
+
+.para-home{
+    line-height: 20px;
+}
+
+.links{
+    display: inline;
+}
