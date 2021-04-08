@@ -1,4 +1,4 @@
-# Hi! I am Afroz!
+# Hi! I am Afroz! I am studying in IIIT Gwalior.
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
