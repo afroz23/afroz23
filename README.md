@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm afroz23</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate frontend developer from India</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afroz23&label=Profile%20views&color=0e75b6&style=flat" alt="afroz23" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afroz23" alt="afroz23" /></a> </p>
 
+
 <p align="left"> <a href="https://twitter.com/afrozquraishi_" target="blank"><img src="https://img.shields.io/twitter/follow/afrozquraishi_?logo=twitter&style=for-the-badge" alt="afrozquraishi_" /></a> </p>
 
-<!--<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/afrozquraishi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="afrozquraishi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afrozquraihsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="afrozquraihsi" height="30" width="40" /></a>
