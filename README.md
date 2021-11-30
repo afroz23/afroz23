@@ -4,11 +4,9 @@
 </div>  
 
 
-- 🔭 I’m currently working on the frontend Development using Reactjs.
-- 🌱 I’m currently exploring Data Sturucture and Algorithm, Reactjs.
-- :writing_hand: I write [here](https://afroziiitian.medium.com/)
+- 🌱 I’m currently exploring Data Sturucture and Algorithm, Reactjs as a front-end development.
 - :bookmark_tabs: Give it a look [resume](https://drive.google.com/file/d/1z-wjgOCZORI6fIPOa7aBESVSohO_UC0M/view)
-- 📫 How to reach me: afroziiitian@gmail.com
+- 📫 reach out to me: afroziiitian@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afroz23&show_icons=true&locale=en" alt="afroz23" /></p>
 
