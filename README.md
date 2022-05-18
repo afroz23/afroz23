@@ -4,8 +4,7 @@
 </div>  
 
 
-- 🌱 Currently exploring Data Sturucture and Algorithm, Reactjs as a front-end developer.
-- :bookmark_tabs: Give it a look [resume](https://drive.google.com/file/d/1z-wjgOCZORI6fIPOa7aBESVSohO_UC0M/view)
+- 🌱 Exploring Data Sturucture and Algorithm, MERN(Reactjs, Nodejs, Expressjs, MongoDB) as a full stack developer.
 - 📫 reach out to me: afroziiitian@gmail.com || +91 7665182848
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afroz23&show_icons=true&locale=en" alt="afroz23" /></p>
