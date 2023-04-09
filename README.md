@@ -5,7 +5,7 @@
 
 
 - 🌱 Exploring Data Sturucture and Algorithm, MERN(Reactjs, Nodejs, Expressjs, MongoDB) as a full stack developer.
-- 📫 reach out to me: afroziiitian@gmail.com || +91 7665182848
+- 📫 reach out to me: afroziiitian@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afroz23&show_icons=true&locale=en" alt="afroz23" /></p>
 
